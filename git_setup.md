@@ -22,7 +22,7 @@ If it is not installed you will get an error similar to:
 ```
 You will need to go back to step 3 above and install the git client.  
 
-> [!INFO]
+> [!NOTE]
 > Sometimes your paths are not updated in your current command line session. To fix this you can try opening a new terminal window and running the same command if you did install it.
 
 ## Configuring Git

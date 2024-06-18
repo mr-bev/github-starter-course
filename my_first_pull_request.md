@@ -27,7 +27,7 @@ Read though the documentation about using [git and github](./git_github.md).
 ## Step 2
 1. Add a markdown file to the repository using github. `Add File -> Create new file`
 
-![](images/Screenshot%202024-06-08%20160352.png)
+![](images/github_new_file.png)
 
 2. The file should be called `hello.md` and should include at least:
     - first and second level headings
@@ -41,7 +41,7 @@ If you have forgotten what markdown is refer to the [section on markdown](./git_
 3. Create a Pull request through `Contribute -> Open Pull Request -> Create pull request`
     - you would add a description if this was true code change PR but for now it can remain empty
 
-![](images/Screenshot%202024-06-08%20154714.png?raw=true)
+![](images/github_pull_request.png)
 
 Your teacher will give you feedback in the PR (pull request) and close it.
 

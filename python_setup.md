@@ -1,4 +1,12 @@
 
+Installing Python
+
+Installing Packages
+
+Virtual Environments
+
+Testing Your Setup
+
 From the command line change to your directory for this subject. See below for a tip on organising you folders on your computer.
 
 ```console
